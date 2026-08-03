@@ -6,3 +6,10 @@
     width: 100%;
     font-size: 4rem;
 }
+.hero-image{
+    background-image: url(./Images/Banner.png);
+    height: 352px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
