@@ -1,0 +1,4 @@
+﻿1. Text is clear, everything is lined up. I would personally use a bit more spacing. The fonts are good, but there should be more unique fonts in your website. Not crowded, there is enough space. 4/6
+2. Functionality - No links,no buttons, however scrolling works just fine. Images are not loading and the top image seems to be cut off. Works fine on a desktop screen, but not a laptop one. 1/5
+3. Text is easy to read, clear, but does not emphasize enough headings(fonts), alt text for images, but feels bland. 3/4
+Overall 3/10
