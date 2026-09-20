@@ -4,25 +4,23 @@
 }
 
 .hero-text{
-    text-align: center;
-    color: whitesmoke;
-    position: absolute;
-    top: 180px;
-    width: 100%;
-    font-size: 4rem;
-    margin-top: -100px;
     color: white;
+    font-size: 4rem;
+    text-align: center;
     -webkit-text-stroke: 2px black;
+    text-shadow: 3px 3px 5px black;;
 }
 
 
 .hero-image{
-    background-image: url(./Images/Banner.png);
+    background-image: url("./Images/Banner.png");
     height: 352px;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .two-column{
