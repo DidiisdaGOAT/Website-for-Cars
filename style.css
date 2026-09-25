@@ -29,7 +29,7 @@
 /* This sets the two column format mainly just the spacing and margins */
 .two-column {
     display: grid;
-    grid-template-columns: 30% 65%;
+    grid-template-columns: 30% 55%;
     gap: 25px;
     width: 95%;
     margin: 50px 0;
@@ -51,7 +51,7 @@
 
 p{
     line-height: 1.7;
-    font-size: 18px;
+    font-size: 16px;
     color: #333;
 }
 
