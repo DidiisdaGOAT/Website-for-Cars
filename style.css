@@ -54,3 +54,9 @@ p{
     font-size: 18px;
     color: #333;
 }
+
+@media (max-width: 900px) {
+    .two-column {
+        width: 90%;
+    }
+}
