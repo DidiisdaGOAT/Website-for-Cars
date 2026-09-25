@@ -29,9 +29,9 @@
 /* This sets the two column format mainly just the spacing and margins */
 .two-column {
     display: grid;
-    grid-template-columns: 1fr 3fr;
+    grid-template-columns: 30% 65%;
     gap: 25px;
-    width: 100%;
+    width: 95%;
     margin: 50px 0;
     align-items: start;
 }
