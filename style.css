@@ -3,7 +3,7 @@
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
 }
-
+/* This code controls how the heading looks and the text shadow is used for adding a black outline around the white text */
 .hero-text{
     color: white;
     font-size: 4rem;
@@ -15,7 +15,7 @@
    2px  2px 0 #000;
 }
 
-
+/* This sets the banner and aligns it with the hero text */
 .hero-image{
     background-image: url("./Images/Banner.png");
     height: 352px;
@@ -26,7 +26,7 @@
     justify-content: center;
     align-items: center;
 }
-
+/* This sets the two column format mainly just the spacing and margins */
 .two-column {
     display: grid;
     grid-template-columns: 1fr 3fr;
